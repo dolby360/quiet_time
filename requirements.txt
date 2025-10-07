@@ -1,0 +1,22 @@
+# MkDocs Material Requirements
+# This file contains all the dependencies needed to build the Little Choices website
+
+# Core MkDocs
+mkdocs>=1.5.0
+
+# Material theme
+mkdocs-material>=9.4.0
+
+# Extensions and plugins
+pymdown-extensions>=10.3.0
+mkdocs-material-extensions>=1.2.0
+
+# Search plugin (built into material but listing for clarity)
+# mkdocs-search - included with mkdocs
+
+# Python dependencies for markdown extensions
+markdown>=3.4.0
+pygments>=2.16.0
+
+# For emoji support
+pymdown-extensions[emoji]>=10.3.0
