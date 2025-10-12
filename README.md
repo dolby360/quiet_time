@@ -1,56 +1,54 @@
-# בחירות קטנות 🎈 Little Choices
+# Little Choices 
 
-> כי כל בחירה של הורה היא בחירה גדולה לילד ❤️
-
-## מה זה? 🤔
-
-**בחירות קטנות** הוא אתר קהילתי להורים ישראליים שמחפשים המלצות איכותיות על:
-
-📚 ספרים | 🎬 סרטים | 🎮 משחקי וידאו | 🎲 משחקי לוח | 🎓 משחקים חינוכיים | 📱 אפליקציות
-
-כל ההמלצות מסודרות לפי גילאים (0-2, 3-5, 6-8, 9-12, 13+) ומבוססות על ניסיון אמיתי של הורים.
-
-## איך מריצים? 🚀
+## How to run? 🚀
 
 ```bash
-# צעד 1: התקנה (פעם אחת)
+# Step 1: Install (one time)
 make install
 
-# צעד 2: הרצת האתר
+# Step 2: Run the site
 make serve
 
-# צעד 3: פתיחה בדפדפן
+# Step 3: Open in browser
 # http://127.0.0.1:8000
 ```
 
-זהו! האתר רץ במחשב שלך 🎉
+That's it! The site is running on your computer �
 
-## פקודות שימושיות 🛠️
+## What is it? 🤔
+
+**Little Choices** is a community website for Heabrow readers parents looking for quality recommendations on:
+
+📚 Books | 🎬 Movies | 🎮 Video Games | 🎲 Board Games | 🎓 Educational Games | 📱 Apps
+
+All recommendations are organized in a table and based on real parenting experience.
+
+## Useful commands 🛠️
 
 ```bash
-make help      # רשימת כל הפקודות
-make build     # בניית האתר
-make clean     # ניקוי
-make deploy    # פרסום ל-GitHub Pages
+make help      # List all commands
+make build     # Build the site
+make clean     # Clean up
+make deploy    # Deploy to GitHub Pages
 ```
 
-## רוצים לתרום? 🤝
+## Want to contribute? 🤝
 
-1. עשו Fork לפרויקט
-2. הוסיפו את ההמלצות שלכם
-3. שלחו Pull Request
-4. תבורכו! 🌟
+1. Fork the project
+2. Add your recommendations
+3. Submit a Pull Request
+4. You're awesome! 🌟
 
-## טכנולוגיות 💻
+## Technologies 💻
 
-- **MkDocs** - גנרטור אתרים סטטי
-- **Material for MkDocs** - ערכת עיצוב יפהפייה (עם תמיכה ב-RTL!)
-- **GitHub Pages** - אחסון בחינם
+- **MkDocs** - Static site generator
+- **Material for MkDocs** - Beautiful design theme (with RTL support!)
+- **GitHub Pages** - Free hosting
 
-## רישיון 📄
+## License 📄
 
-MIT - השתמשו בחופשיות, שתפו באהבה!
+MIT - Use freely, share with love!
 
 ---
 
-**נבנה באהבה ע"י ההורים, בשביל ההורים** 💝
+**Built with love by parents, for parents** 💝

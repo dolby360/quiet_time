@@ -1,4 +1,4 @@
-site_name: בחירות קטנות - Little Choices
+site_name: שעה של שקט - Quiet Time
 site_description: אתר המלצות לטובת הורים על ספרים, סרטים, משחקים ועוד - לפי גילאים
 site_url: https://littlechoices.github.io
 
@@ -55,30 +55,16 @@ markdown_extensions:
 
 nav:
   - עמוד הבית: index.md
-  - אודות: about.md
-  - לפי גיל:
-    - ages/index.md
-    - "0-2 שנים": ages/0-2.md
-    - "3-5 שנים": ages/3-5.md
-    - "6-8 שנים": ages/6-8.md
-    - "9-12 שנים": ages/9-12.md
-    - "13+ שנים": ages/13+.md
-  - לפי קטגוריה:
-    - categories/index.md
-    - ספרים: categories/books.md
-    - סרטים: categories/movies.md
-    - משחקי וידאו: categories/video-games.md
-    - משחקי לוח: categories/board-games.md
-    - משחקים חינוכיים: categories/educational-games.md
-    - אפליקציות: categories/apps.md
+  - מחקרים: research.md
   - תרומת תוכן: contribute.md
+  - אודות: about.md
 
-repo_url: https://github.com/dolby360/LittleChoice
-repo_name: dolby360/LittleChoice
+repo_url: https://github.com/dolby360/quiet_time.git
+repo_name: dolby360/quiet_time
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/dolby360/LittleChoice
+      link: https://github.com/dolby360/quiet_time.git
   
-copyright: Copyright &copy; 2025 בחירות קטנות - Little Choices
+copyright: Copyright &copy; 2025 שעה של שקט - Quiet Time
