@@ -56,7 +56,7 @@ markdown_extensions:
 nav:
   - עמוד הבית: index.md
   - מחקרים: research.md
-  - תרומת תוכן: contribute.md
+  - שיתוף תוכן: contribute.md
   - אודות: about.md
 
 repo_url: https://github.com/dolby360/quiet_time.git
