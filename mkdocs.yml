@@ -55,6 +55,7 @@ markdown_extensions:
 
 nav:
   - עמוד הבית: index.md
+  - משחקים חינוכיים: toys.md
   - מחקרים: research.md
   - שיתוף תוכן: contribute.md
   - אודות: about.md
