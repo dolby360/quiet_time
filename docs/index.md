@@ -11,7 +11,7 @@
 
 ## 0-2
 
-בגדול אין לי יותר מידי המלצות לגיל הזה. זה גיל של משחק וחיבוק, כל המחקרים שתמצאו בעמוד המחקרים שלי מראים שבגיל הזה צריך להמנע ככל הניתן ממסכים. [לטבלת המחקרים המלאה](../research.md#research-table)
+בגדול אין לי יותר מידי המלצות לגיל הזה. זה גיל של משחק וחיבוק, כל המחקרים שתמצאו בעמוד המחקרים שלי מראים שבגיל הזה צריך להמנע ככל הניתן ממסכים. [לטבלת המחקרים המלאה](./research.md#research-table)
 
 ## 2-4
 
@@ -22,32 +22,36 @@
 <thead>
 <tr>
 <th>שם</th>
+<th>המלצה</th>
 <th>פלטפורמה</th>
 <th>מעברי מצלמה</th>
 <th>צבעים</th>
 <th>מסר חינוכי</th>
-<th>המלצה</th>
+
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>בלואי</td>
+<td>🟢</td>
 <td>Netflix</td>
 <td>איטיים</td>
 <td>רכים ועדינים</td>
 <td>רגשות וחברות</td>
-<td>🟢</td>
+
 </tr>
 <tr>
 <td>mofy</td>
+<td>🟢</td>
 <td>YouTube</td>
 <td>איטיים מאוד</td>
 <td>רכים ועדינים</td>
 <td>חקר וגילוי</td>
-<td>🟢</td>
+
 </tr>
 <tr>
 <td>פפה פיג</td>
+<td>🟢</td>
 <td>Netflix</td>
 <td>איטיים</td>
 <td>רכים</td>
@@ -56,43 +60,48 @@
 </tr>
 <tr>
 <td>פרפר נחמד</td>
+<td>🟢</td>
 <td>YouTube</td>
 <td>איטיים</td>
 <td>רכים ועדינים</td>
 <td>חקר וגילוי</td>
-<td>🟢</td>
+
 </tr>
 <tr>
 <td>Daniel Tiger's Neighborhood</td>
+<td>🟢</td>
 <td>YouTube</td>
 <td>איטיים מאוד</td>
 <td>רכים ועדינים</td>
 <td>רגשות וחברות</td>
-<td>🟢</td>
+
 </tr>
 <tr>
 <td>יחידת החילוץ</td>
+<td>🟡</td>
 <td>Netflix</td>
 <td>בינוניים</td>
 <td>עזים</td>
 <td>בינוני - עבודת צוות</td>
-<td>🟡</td>
+
 </tr>
 <tr>
 <td>בובספוג</td>
+<td>🔴</td>
 <td>~~~</td>
 <td>מהיר</td>
 <td>עזים</td>
 <td>מטופש</td>
-<td>🔴</td>
+
 </tr>
 <tr>
 <td>Tom & Jerry</td>
+<td>🔴</td>
 <td>~~~</td>
 <td>מהיר</td>
 <td>עזים</td>
 <td>אלימות</td>
-<td>🔴</td>
+
 </tr>
 </tbody>
 </table>
@@ -110,45 +119,50 @@
 <thead>
 <tr>
 <th>שם</th>
+<th>המלצה</th>
 <th>פלטפורמה</th>
 <th>מעברי מצלמה</th>
 <th>צבעים</th>
 <th>מסר חינוכי</th>
-<th>המלצה</th>
+
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>דורה החוקרת</td>
+<td>🟢</td>
 <td>~~~~</td>
 <td>בינוניים</td>
 <td>עזים</td>
 <td>חקר ופתרון בעיות</td>
-<td>🟢</td>
+
 </tr>
 <tr>
 <td>פרפר נחמד</td>
+<td>🟢</td>
 <td>YouTube</td>
 <td>איטיים</td>
 <td>רכים ועדינים</td>
 <td>חקר וגילוי</td>
-<td>🟢</td>
+
 </tr>
 <tr>
 <td>מטוסי על</td>
+<td>🟡</td>
 <td>~~~</td>
 <td>בינוניים</td>
 <td>עזים</td>
 <td>פתרון בעיות ותרבויות</td>
-<td>🟡</td>
+
 </tr>
 <tr>
 <td>Tom & Jerry</td>
+<td>🔴</td>
 <td>~~~</td>
 <td>מהיר</td>
 <td>עזים</td>
 <td>אלימות</td>
-<td>🔴</td>
+
 </tr>
 </tbody>
 </table>
@@ -163,29 +177,33 @@
 <thead>
 <tr>
 <th>שם</th>
+<th>המלצה</th>
 <th>פלטפורמה</th>
 <th>אופי</th>
-<th>המלצה</th>
+
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Yoshi's Crafted World</td>
+<td>🟢</td>
 <td>Nintendo</td>
 <td>ניתן לשחק במצב רגוע</td>
-<td>🟢</td>
+
 </tr>
 <tr>
 <td>Kirby and the Forgotten Land</td>
+<td>🟢</td>
 <td>Nintendo</td>
 <td>מאתגר</td>
-<td>🟢</td>
+
 </tr>
 <tr>
 <td>Snipperclips: Cut it out, Together!</td>
+<td>🟢</td>
 <td>Nintendo</td>
 <td>שיתוף פעולה יצירתי</td>
-<td>🟢</td>
+
 </tr>
 </tbody>
 </table>
@@ -206,23 +224,26 @@
 <thead>
 <tr>
 <th>שם</th>
+<th>המלצה</th>
 <th>פלטפורמה</th>
 <th>אופי</th>
-<th>המלצה</th>
+
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Thinkrolls (Avokiddo)</td>
+<td>🟢</td>
 <td>iOS/Android</td>
 <td>פאזלים לוגיים, קצב רגוע</td>
-<td>🟢</td>
+
 </tr>
 <tr>
 <td>Pango Build City</td>
+<td>🟢</td>
 <td>iOS/Android</td>
 <td>בנייה יצירתית, ללא לחץ זמן</td>
-<td>🟢</td>
+
 </tr>
 </tbody>
 </table>
