@@ -50,6 +50,15 @@
 <td>YouTube</td>
 </tr>
 <tr>
+<td>Trash Truck</td>
+<td>🟢</td>
+
+<td>איטיים</td>
+<td>רכים ועדינים</td>
+<td>חברות, עזרה הדדית</td>
+<td>Netflix</td>
+</tr>
+<tr>
 <td>פפה פיג</td>
 <td>🟢</td>
 
@@ -60,7 +69,7 @@
 </tr>
 <tr>
 <td>פרפר נחמד</td>
-<td>🟢</td>
+<td>🟢🟢</td>
 
 <td>איטיים</td>
 <td>רכים ועדינים</td>
@@ -75,6 +84,15 @@
 <td>רכים ועדינים</td>
 <td>רגשות וחברות</td>
 <td>YouTube</td>
+</tr>
+<tr>
+<td>חקירות חייתיות</td>
+<td>🟢</td>
+
+<td>בינוניים</td>
+<td>עזים</td>
+<td>מדע וטבע</td>
+<td>Netflix</td>
 </tr>
 <tr>
 <td>יחידת החילוץ</td>
@@ -139,12 +157,21 @@
 </tr>
 <tr>
 <td>פרפר נחמד</td>
-<td>🟢</td>
+<td>🟢🟢</td>
 
 <td>איטיים</td>
 <td>רכים ועדינים</td>
 <td>חקר וגילוי</td>
 <td>YouTube</td>
+</tr>
+<tr>
+<td>חקירות חייתיות</td>
+<td>🟢</td>
+
+<td>בינוניים</td>
+<td>עזים</td>
+<td>מדע וטבע</td>
+<td>Netflix</td>
 </tr>
 <tr>
 <td>מטוסי על</td>
